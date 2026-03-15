@@ -2,6 +2,9 @@
 
 AI-powered assistant for global business formation, compliance, tax setup, and cross-border expansion guidance.
 
+https://chatgpt.com/g/g-69a09dcdfb288191a1ae88e256713f5d-global-business-setup-assistant
+
+
 ## Overview
 
 **Global Business Setup Assistant** is an AI-driven business setup and compliance operating system designed to help founders, entrepreneurs, and online business owners navigate the process of forming, structuring, and growing a business across jurisdictions.
